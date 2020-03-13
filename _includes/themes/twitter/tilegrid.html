@@ -1,0 +1,102 @@
+<script defer>
+(function (){
+    const sfUrl ='https://api.sketchfab.com/v3/models/'
+    window.CreateSketchfabCard = function(projName, projDesc, projUrl, sfId, sectionId){
+        // while(window.$ === null || window.$ === undefined){}
+        let sfThumbUrl = sfUrl + sfId;
+        fetch(sfThumbUrl)
+        .then((response => response.json()))
+        .then(function(data){
+            console.log("This is my data",data);
+            let thumb = data ? data.thumbnails.images[2].url : '';
+            let card = createCard(projName, projDesc, projUrl, thumb);
+            document.getElementById(sectionId).appendChild(card);
+        });
+    }
+    const defaultThumb = '';
+    window.CreateImageCard = function(projName, projDesc, projUrl, dir, thumb, sectionId){
+        if(!thumb || thumb === null || thumb === undefined){
+            thumb = defaultThumb;
+        }
+        let pathStart = '{{ BASE_PATH }}';
+        pathStart = pathStart ? pathStart : "";
+        let card = createCard(projName, projDesc, projUrl, thumb ? ('{{ BASE_PATH }}' + dir + '/images/' + thumb) : undefined);
+        document.getElementById(sectionId).appendChild(card);
+    }
+
+    function createCard(projName, projDesc, projUrl, thumb){
+      let pathStart = '{{ BASE_PATH }}';
+      pathStart = pathStart ? pathStart : "";
+        let card = '';
+        // card += '<div class="card-header">'
+        // card += '<a class="sticker-title">MEDIUM ANALYSIS GROUP</a>'
+        // card += '</div>';
+        // if(thumb){
+        //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
+        // }
+        card += '<div class="card-body">'
+        card += '<h4 style="font-weight: bold">' + projName + '</h4>'
+        card += '<p class="card-text">' + projDesc + '</p>';
+        card += '</div>';
+        card +=  '<div class="card-footer">'
+        card +=     '<a href="'+ pathStart + projUrl + '" class="btn btn-warning">Read</a>'
+        card +=  '</div>';
+        var div = document.createElement('div');
+        div.className = 'card card-home card-project';
+        div.innerHTML = card;
+        return div;
+    }
+
+    function imageExists(image_url){
+
+      var http = new XMLHttpRequest();
+
+      http.open('HEAD', image_url, false);
+      http.send();
+
+      return http.status != 404;
+    }
+})()
+</script>
+
+<!-- CONTENT -->
+<div class="container container-narrow container-content" style="margin-top: 70px">
+  <div class="row-fluid post-full">
+    <div class="span12">
+      <div class="content">
+
+        {{ content }}
+
+        <!-- CARDS -->
+        <br>
+        <h4>Technical Docs</h4>
+        <div id="techCards" class="card-columns">
+          <!-- PROCESSES -->
+          {% assign ma = site.pages | where: "category", "Technical" %}
+          {% assign mags = ma | sort: 'order' %}
+          {% for mag in mags %}
+          {% if mag.sketchfabUUID %}
+          <script defer>
+            window.CreateSketchfabCard('{{ mag.title }}',
+              '{{ mag.description }}',
+              '{{ mag.url }}',
+              '{{ mag.sketchfabUUID }}',
+              'techCards');
+          </script>
+          {% else %}
+          <script defer>
+            window.CreateImageCard('{{ mag.title }}',
+              '{{ mag.description }}',
+              '{{ mag.url }}',
+              '{{ mag.dir }}',
+              '{{ mag.thumb }}',
+              'techCards');
+          </script>
+          {% endif %}
+          {% endfor %}
+        </div>
+        <br>
+      </div>
+    </div>
+  </div>
+</div>
