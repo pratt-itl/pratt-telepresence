@@ -1,10 +1,10 @@
 ---
 layout: process
-title: ZUND
+title: Video Conferencing
 category: Technical
 subcategory: 
-description: Digital Cutting Production
-order: 1
+description: If you want to host you class via live feed
+order: 3
 ---
 
 <hr class="homebreak">

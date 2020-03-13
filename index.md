@@ -1,12 +1,12 @@
 ---
 layout: tilegrid
-title: Pratt Production
-description: Providing information of machine and output capabilities and protocols 
+title: Pratt Telepresence
+description: Providing information for  
 ---
 
-## Pratt Production
+## Pratt Telepresence
 
-A centralized location for Pratt Institute's Production capabilities and protocols. Including basic machine information, tooling options, facility locations, hours of operation, submission links and all other pertient information regarding output and production. 
+A centralized location for navigating and utilizing Pratt's telepresence cloud kit to support teaching and learning. 
 
 
 

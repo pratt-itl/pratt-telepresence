@@ -1,15 +1,15 @@
 ---
 layout: process
-title: 3DPC
+title: Read First!
 category: Technical
 subcategory: 
-description: 3D Print Production
-order: 2
+description: Setup your course via Google Calendar
+order: 1
 ---
 
 <hr class="homebreak">
 
-## 3D Print Center Production
+## Google Calendar Setup
 ---
 
 **Location :** 
