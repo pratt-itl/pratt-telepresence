@@ -3,7 +3,7 @@ layout: process
 title: Read First!
 category: Technical
 subcategory: 
-description: Setup your overall course communication via Google Calendar
+description: Setup your course communication via Google Calendar
 order: 1
 ---
 
