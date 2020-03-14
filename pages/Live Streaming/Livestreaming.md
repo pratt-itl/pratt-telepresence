@@ -2,7 +2,7 @@
 layout: process
 title: Video Conferencing
 category: Technical
-subcategory: 
+subcategory: Onboarding
 description: If you want to host you class via live feed
 order: 3
 ---
