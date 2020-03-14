@@ -3,7 +3,7 @@ layout: process
 title: Read First!
 category: Technical
 subcategory: 
-description: Setup your course via Google Calendar
+description: Setup your overall course communication via Google Calendar
 order: 1
 ---
 
@@ -12,23 +12,17 @@ order: 1
 ## Google Calendar Setup
 ---
 
-**Location :** 
-
-Engineering Building, 2nd Floor, Room 211
-
-**Hours of Operation :**
-
-MTWTFSS, 8:30am - Midnight
-
-
+**Setup Time : Approx. 10min**.
 
 ------
 
 
 
-The 3D Printing Center is Pratt’s centralized hub for 3D printing and 3D scanning. The facility is open to students and staff of all disciplines. We offer a variety of 3D printers and materials to fit different stages of the design process—from prototyping, to printed waxes for lost-wax casting, to presentation-quality resin prints.
+When moving all your courses online, the single most important factor is how you and your students find where things are. The reason why we are recommending using Google Calendar is to centralize all the information. Moving a course online is more than just sending a link of your recorded lecture or video conference call to your students minutes prior to your scheduled course. We want to ensure that everything critical information is available quickly and easily to ensure this transition can be as smooth as possible. These information include the link of your course's shared folder, the link to the recorded lecture, and the link to the video conference sessions. 
 
-The facility is staffed by an enthusiastic and knowledgeable group of student monitors, who in addition to performing all 3D scanning and 3D printing duties, design useful items for the 3D Printing Center that we 3D print in-house and use every day. These designs are available to the public on our [Thingiverse page](http://www.thingiverse.com/Pratt3DPrinting/designs).
+
+
+students know at all times where they can submit files so you as a faculty can bring up easily during a video conference session. 
 
 
 
