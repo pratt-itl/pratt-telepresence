@@ -14,13 +14,7 @@ order: 2
 
 ------
 
-
-
-Automatization and efficiency with unparalleled precision are the cornerstones of the Zund Digital Cutting system. Its multi axis, conveyor belt hold down system, with seven different tooling options with a range of various blades and bits allow for a variety of different materials spanning from soft to hard, in a range of various sizes - most notably large format!
-
-At first glance the Zund Digital Cutter can be thought of as being located in the middle ground between a laser cutter and a CNC mill, but it's this middle zone and the material offerings, stock sizes and precision that renders this a unique and powerful tooling option.
-
-
+Both Google Meet and Big Blue Button in LMS give you a way to deliver a live lecture, hold class discussions, share your screen to show slides, and text chat with students.
 
 ------
 
@@ -47,7 +41,14 @@ Big Blue Button is very easy to use and it has a built in
 
 
 
+------
 
+<strong id="tooling">Low Tech Strategies</strong>
+
+If your students and/or you cannot access the internet – you can still hold meetings and discussions via phone conferences. You can use Google Meet or Big Blue Button purely as a conference call and not use any of the video and shared screen features. You can also just be on the receiving end if your students are more savvy. 
 
 ------
 
+<strong id="tooling">Slack</strong> (Not officially supported by Pratt IT but account is free)
+
+Big Blue Button is very easy to use and it has a built in 
