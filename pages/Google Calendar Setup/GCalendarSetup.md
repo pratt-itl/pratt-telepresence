@@ -1,9 +1,9 @@
 ---
 layout: process
-title: Read First!
+title: Schedule and Organize
 category: Technical
 subcategory: 
-description: Setup your course communication via Google Calendar
+description: How to use Calendar to organize your communication
 order: 1
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: process
-title: Video Conferencing
+title: Go Live & Engage
 category: Technical
 subcategory: Onboarding
-description: If you want to host you class via live feed
+description: Google Hangouts Meet, Big Blue Button
 order: 3
 ---
 

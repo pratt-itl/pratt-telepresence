@@ -1,9 +1,9 @@
 ---
 layout: process
-title: Recording
+title: Record & Archive
 category: Technical
 subcategory: 
-description: If you want to record your lecture
+description: Kaltura, Big Blue Button
 order: 2
 ---
 
