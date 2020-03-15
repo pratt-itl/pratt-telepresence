@@ -1,10 +1,10 @@
 ---
 layout: process
-title: Go Live & Engage
+title: 3. Go Live & Engage
 category: Technical
 subcategory: Onboarding
 description: Google Hangouts Meet, Big Blue Button
-order: 3
+order: 2
 ---
 
 <hr class="homebreak">

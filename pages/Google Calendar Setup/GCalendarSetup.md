@@ -1,6 +1,6 @@
 ---
 layout: process
-title: Schedule and Organize
+title: 1. Schedule and Organize
 category: Technical
 subcategory: 
 description: How to use Calendar to organize your communication
