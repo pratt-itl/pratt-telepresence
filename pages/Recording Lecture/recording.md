@@ -9,38 +9,12 @@ order: 3
 
 <hr class="homebreak">
 
-## Digital Cutting Production
----
-
-**Location :** 
-
-Engineering Building, Lower Level, Room 002-006
-
-**Hours of Operation :** 
-
-SP20, Tues., Wed., Fri., 10am - 6pm
-
-**Submission Form :**
-
-[Zund File Submission Form SP20](https://docs.google.com/forms/d/e/1FAIpQLSeVOXkjmV9enja9X48jBCmq1ergVhghb2MUNG2IXI-cZ7GmRQ/viewform?usp=sf_link)
-
-
-
-![](.\images\2020.02.24 ITL SOA RESEARCH REF 01.jpg)
+## 2. Record & Archive
+**Learning Time : Approx. 15min**.
 
 ------
 
 
-
-1. Introduction
-2. Material
-3. Tooling
-4. Capabilities
-5. Submission
-
-
-
-------
 
 <strong id="introduction">Introduction</strong>
 
@@ -80,77 +54,6 @@ The larger list of *only some* of the suitable materials for use on the Zund are
 - Plywood
 - Metal Composites
 - Soft Metals
-
-
-
-> <u>The ITL, a part of the normative offering for production on the Zund, is providing, as a start, stock materials offered at below competitive rates - corrugated cardboard, honeycomb sandwich board, 2ply bristol, 4ply bristol and a varying thickness of black and white foam board.</u> 
-
-
-
-<img src=".\images\2020.02.24 ITL SOA RESEARCH REF.jpg" style="zoom: 67%;" />
-
-
-
-
-
-------
-
-<strong id="tooling">Tooling</strong>
-
-The Zund modular tooling system allows for a wide array of tooling capabilities with multiple tooling operations able to perform during a single job. The ITL has seven tools available for the different modules on the Zund. They are as follows. 
-
-1. UCT : [Universal Cutting Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/universal-cutting-tool-uct)
-2. KCT : [Kiss Cutting Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/kiss-cut-tool-kct)
-3. DRT : [Driven Rotary Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/driven-rotary-tool-drt)
-4. EOT : [Electric Oscillating Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/electric-oscillating-tool-eot)
-5. POT : [Pneumatic Oscillating Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/pneumatic-oscillating-tool-pot)
-6. VCT : [V-Cutting Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/tools/v-cut-tool-vct)
-7. RML : [Routing Module Tool](https://www.zund.com/en/cutting-systems/modules-and-tools/modules/router-module)
-
-The use cases for these tools are they relate to materials and tooling operation vary, however the initial conceptualization of them should be as follows.
-
-UCT
-
-- Is a drag blade tool used for through-cutting with a wide range of stock material under 1/4" in thickness. 
-- This tool is the most widely used for jobs.
-- The material capability aligns closer to papers, plastics, fabrics, meshes, films and other softer, thinner materials.
-
-KCT
-
-- Is a spring loaded, pressure sensitive, drag blade tool used for scoring or etching materials.
-- This is most typically used for light marking or specific delamination in material composites or adhesive films. 
-- The material capability aligns closer to the thinner, softer materials of papers, plastics, fabrics, flims or harder substrates that require light scoring indentation or film removals.
-
-DRT
-
-- Is a rotating, drag blade tool used for through-cutting materials that are thinner and require less continual drag friction.
-- This is most typically used for fabrics and films.
-- The material capabilities more closely aligns with softer and thinner materials such as papers, fabrics, films, thin felts or the like. 
-
-EOT
-
-- Is an oscillating, drag blade tool used for through-cutting materials more typically in a thickness range of 1/8" to 1/2".
-- This is more typically used for aerated laminate material or material that requires a sawing type of action - soft or medium density. 
-- The material capability aligns closer to the soft to medium range under 1/2" such as cardboards, corrugated plastics, honeycomb board, open cell foams, closed cell foams, rubber, foam boards. 
-
-POT
-
-- Is an oscillating, drag blade tool used for through-cutting materials more typically with a thickness exceeding 1/2" to 2” or materials with a medium to thick density.
-- This is more typically used with longer blades or when a high rate of oscillation is required.
-- The material capability aligns closer to thicker materials of honeycomb board, closed cell foams, rubbers, felts and polycarbonates.
-
-VCT
-
-- Is a multi angular, drag blade tool used for through-cutting materials with 1/8" to 3/4" material thickness. 
-- This is typically used for beveling or groove cutting at a 0,15,22.5,30 or 45 degree angle. 
-- The material capability aligns closer to soft and medium density materials with thickness suitable for an edge condition. Corrugated cardboards, honeycomb, felt, foam board, rubbers and plastics.
-
-RML
-
-- Is a routing tool utilizing an automatic bit changer for tooling operations.
-- The material capabilities align closer to the harder end of the spectrum with soft metals, composites, acrylics, hard plastics and plywood.
-
-
 
 
 
