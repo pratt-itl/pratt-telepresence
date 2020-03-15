@@ -18,7 +18,7 @@ Both Google Meet and Big Blue Button in LMS give you a way to deliver a live lec
 
 ------
 
-<strong id="material">Google Hangouts Meet</strong>
+<strong id="material">Google Hangouts Meet</strong> - This is the platform we recommend for most of your needs.
 
 The is the easiest way to conduct a virtual meeting. You can run **Meet** on your phone, computer, and tablet. You can also log in simultaneously with multiple devices at the same time. 
 
@@ -35,7 +35,7 @@ The is the easiest way to conduct a virtual meeting. You can run **Meet** on you
 
 ------
 
-<strong id="tooling">Big Blue Button</strong>
+<strong id="tooling">Big Blue Button</strong> - This is the platform to use if you need if you prefer to make sketches.
 
 Big Blue Button is very easy to use and it has a built in 
 
