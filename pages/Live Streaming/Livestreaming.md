@@ -4,7 +4,7 @@ title: 3. Go Live & Engage
 category: Technical
 subcategory: Onboarding
 description: Google Hangouts Meet, Big Blue Button
-order: 2
+order: 3
 ---
 
 <hr class="homebreak">
